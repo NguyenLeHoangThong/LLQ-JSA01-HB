@@ -11,3 +11,7 @@
     background-color: yellow;
     height: 50px;
 }
+
+.btn-primary {
+    --bs-btn-bg: red;
+  }
