@@ -10,4 +10,5 @@ Lưu ý: lên github copy dòng kiểu như này sau khi tạo repo git rồi g�
 - git add .
 - git commit -m "Tin nhắn ý nghĩa của các hành động"
 - git push
-Lưu ý, ở lệnh git push, nếu gõ lần đầu tiên thì git sẽ ko cho và sẽ hiện ra dòng kiểu như `git push -u origin <branch-name>`. Đơn giản chỉ cần copy dòng này và gõ vào terminal lại sẽ push lên được.
+
+- Lưu ý, ở lệnh git push, nếu gõ lần đầu tiên thì git sẽ ko cho và sẽ hiện ra dòng kiểu như `git push -u origin <branch-name>`. Đơn giản chỉ cần copy dòng này và gõ vào terminal lại sẽ push lên được.
